@@ -1,0 +1,13 @@
+Sistema: Barbearia Premium
+Desenvolvedor: UpFi Soluções em Sistemas
+
+ALTERAÇÕES:
+firebase.js: conectado ao projeto "barber-4ed00"
+index.html: título e favicon atualizados
+Logo não enviada; logotipo padrão do template foi preservado
+src.jsx: textos reconhecidos personalizados
+style.css: paleta aplicada
+Vite: base ajustada para /https://github.com/upfisolucoes/barbershop.git/
+
+ATENÇÃO:
+Nenhum aviso estrutural identificado.

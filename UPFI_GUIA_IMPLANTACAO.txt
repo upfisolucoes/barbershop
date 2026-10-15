@@ -1,0 +1,12 @@
+UPfi Studio - implantação do sistema Barbearia Premium
+
+1. Crie um projeto Firebase exclusivo para o cliente.
+2. Cadastre aplicativo Web e configure firebase.js.
+3. Habilite Authentication > Email/Password e crie usuário.
+4. Firestore: coleção admins > documento com UID do usuário > role (string): admin; active (boolean): true.
+5. Revise e publique regras de segurança, com base em firebase.rules.example.
+6. Configure domínios autorizados para autenticação.
+7. Publique o projeto no GitHub Pages (ou outra hospedagem), ajuste base do Vite.
+8. Teste login, CRUD, reservas, permissões, sincronização e backups.
+
+OBS: O gerador não cria contas Firebase, usuários, banco ou repositório automaticamente.
