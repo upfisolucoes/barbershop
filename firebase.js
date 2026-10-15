@@ -1,7 +1,7 @@
 import { initializeApp } from "firebase/app";
 import { getAuth } from "firebase/auth";
 import { getFirestore } from "firebase/firestore";
-const firebaseConfig = {
+const app = initializeApp({
   "apiKey": 'AIzaSyDPlXlrV6jB3_umuWl9x1jHbzckz-wXGMc',
   "authDomain": 'barber-4ed00.firebaseapp.com',
   "projectId": \'barber-4ed00',
